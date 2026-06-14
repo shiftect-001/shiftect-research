@@ -1,2 +1,2 @@
 # shiftect-research
-shiftect.技術研究
+shiftect.技術研究所
