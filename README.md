@@ -1,2 +1,1 @@
-# shiftect-research
-shiftect.技術研究所
+# shiftect.技術研究所
