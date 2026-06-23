@@ -2417,3 +2417,14 @@ AI作成という表現は、自動作成にとどまる処理と、状態変化
 この違いを、shiftect.の入力構成、探索対象、固定対象、状態情報、成立性判定に含まれます。
 AI作成という表現は、表の作成ではなく、変更後の再生成まで含むかで判断します。
 ---------------------------------------
+
+## Related repositories
+
+- [shiftect-research-en](https://github.com/shiftect-001/shiftect-research-en)  
+  English research repository for shiftect.
+
+- [shiftect-for-educa-research](https://github.com/shiftect-001/shiftect-for-educa-research)  
+  shiftect. for EDUCA の日本語リサーチリポジトリ。
+
+- [shiftect-for-educa-research-en](https://github.com/shiftect-001/shiftect-for-educa-research-en)  
+  English research repository for shiftect. for EDUCA.
